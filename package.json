@@ -1,0 +1,14 @@
+{
+  "name": "ignisshield",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev:backend": "cd backend && uvicorn main:app --reload",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev": "concurrently \"npm:dev:backend\" \"npm:dev:frontend\"",
+    "test:backend": "cd backend && pytest -q"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}

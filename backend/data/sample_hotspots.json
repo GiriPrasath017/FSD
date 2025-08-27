@@ -1,0 +1,4 @@
+[
+  { "id": "hot_001", "latitude": 36.7783, "longitude": -119.4179, "brightness": 332.1, "acq_date": "2025-01-01", "satellite": "A" },
+  { "id": "hot_002", "latitude": 34.0522, "longitude": -118.2437, "brightness": 345.6, "acq_date": "2025-01-01", "satellite": "T" }
+]
