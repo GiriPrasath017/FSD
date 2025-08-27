@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+
+.palette-bg { background: #EAEBD0; }
+.btn { @apply px-4 py-2 rounded-lg transition transform; background: #DA6C6C; color: white; }
+.btn:hover { filter: brightness(1.05); box-shadow: 0 0 18px rgba(218,108,108,0.45); transform: translateY(-1px); }
+.btn-danger { background: #AF3E3E; }
+.card { @apply border rounded-xl p-4 transition; border-color: rgba(175,62,62,0.4); background: rgba(255,255,255,0.6); }
+.card:hover { box-shadow: 0 0 24px rgba(175,62,62,0.35); border-color: rgba(175,62,62,0.7) }
+.muted { color: rgb(80, 80, 80); }
+.leaflet-container { height: 520px; width: 100%; border-radius: 12px; overflow: hidden; border: 1px solid rgba(175,62,62,0.4); }
+.pulse { animation: pulse 1.2s ease-in-out infinite; }
+@keyframes pulse { 0% { box-shadow: 0 0 0 rgba(175,62,62,0.5) } 50% { box-shadow: 0 0 22px rgba(175,62,62,0.8) } 100% { box-shadow: 0 0 0 rgba(175,62,62,0.5) } }
+

@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-08-27T13:41:03.670523+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 Test Project",
+    "message": "High fire risk at 10 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  }
+]
