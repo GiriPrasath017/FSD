@@ -1,0 +1,403 @@
+[
+  {
+    "timestamp": "2025-08-27T13:41:03.670523+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 Test Project",
+    "message": "High fire risk at 10 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T13:51:51.368561+00:00",
+    "subject": "High Fire Risk Alert",
+    "message": "Predicted HIGH risk with probability 0.835",
+    "source": "realtime",
+    "delivered": []
+  },
+  {
+    "timestamp": "2025-08-27T13:52:21.750620+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 CA Watch",
+    "message": "High fire risk at 13 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T13:52:26.318170+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 CA Watch",
+    "message": "High fire risk at 11 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T13:52:30.928523+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 CA Watch",
+    "message": "High fire risk at 8 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T13:53:10.125128+00:00",
+    "subject": "High Fire Risk Alert",
+    "message": "Predicted HIGH risk with probability 0.835",
+    "source": "realtime",
+    "delivered": []
+  },
+  {
+    "timestamp": "2025-08-27T13:56:38.369177+00:00",
+    "subject": "High Fire Risk Alert",
+    "message": "Predicted HIGH risk with probability 0.835",
+    "source": "realtime",
+    "delivered": []
+  },
+  {
+    "timestamp": "2025-08-27T14:37:30.387844+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 CA Watch",
+    "message": "High fire risk at 12 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T14:47:51.992984+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 CA Watch",
+    "message": "High fire risk at 11 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T14:48:01.147788+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 CA Watch",
+    "message": "High fire risk at 12 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T15:19:10.414717+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 CA Watch",
+    "message": "High fire risk at 14 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T15:26:39.890581+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 Texes",
+    "message": "High fire risk at 9 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T15:37:17.536103+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 Texes",
+    "message": "High fire risk at 14 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T15:37:32.888033+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 Texes",
+    "message": "High fire risk at 10 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T15:37:57.507815+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 Texes",
+    "message": "High fire risk at 11 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T16:48:01.268575+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 CA Watch",
+    "message": "High fire risk at 11 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T17:29:44.889617+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 CA Watch",
+    "message": "High fire risk at 7 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T17:29:54.239336+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 CA Watch",
+    "message": "High fire risk at 13 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T19:56:27.984592+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 Texes",
+    "message": "High fire risk at 12 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T19:56:38.740799+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 Texes",
+    "message": "High fire risk at 9 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-28T06:47:07.498885+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 Texes",
+    "message": "High fire risk at 8 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-29T16:32:25.380019+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 CA Watch",
+    "message": "High fire risk at 13 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "giriprasath017@gmail.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      },
+      {
+        "to": "09943783953",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-29T16:32:30.756492+00:00",
+    "subject": "IgnisShield Realtime Alerts \u2013 CA Watch",
+    "message": "High fire risk at 10 locations (brightness > 330).",
+    "source": "realtime",
+    "delivered": [
+      {
+        "to": "alice@example.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "giriprasath017@gmail.com",
+        "channel": "email",
+        "status": "SENT"
+      },
+      {
+        "to": "+1555",
+        "channel": "sms",
+        "status": "SENT"
+      },
+      {
+        "to": "09943783953",
+        "channel": "sms",
+        "status": "SENT"
+      }
+    ]
+  }
+]
