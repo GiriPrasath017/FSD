@@ -1,0 +1,122 @@
+[
+  {
+    "id": "hot_000",
+    "latitude": 37.95578,
+    "longitude": -116.87614,
+    "brightness": 364.7,
+    "acq_date": "2025-08-27",
+    "satellite": "A"
+  },
+  {
+    "id": "hot_001",
+    "latitude": 32.50896,
+    "longitude": -114.62394,
+    "brightness": 356.9,
+    "acq_date": "2025-08-27",
+    "satellite": "T"
+  },
+  {
+    "id": "hot_002",
+    "latitude": 34.7601,
+    "longitude": -122.48181,
+    "brightness": 373.2,
+    "acq_date": "2025-08-27",
+    "satellite": "T"
+  },
+  {
+    "id": "hot_003",
+    "latitude": 32.65746,
+    "longitude": -114.09578,
+    "brightness": 377.6,
+    "acq_date": "2025-08-27",
+    "satellite": "A"
+  },
+  {
+    "id": "hot_004",
+    "latitude": 37.91875,
+    "longitude": -123.48101,
+    "brightness": 382.4,
+    "acq_date": "2025-08-27",
+    "satellite": "T"
+  },
+  {
+    "id": "hot_005",
+    "latitude": 39.26433,
+    "longitude": -117.90328,
+    "brightness": 308.7,
+    "acq_date": "2025-08-27",
+    "satellite": "A"
+  },
+  {
+    "id": "hot_006",
+    "latitude": 36.92795,
+    "longitude": -123.4212,
+    "brightness": 312.2,
+    "acq_date": "2025-08-27",
+    "satellite": "T"
+  },
+  {
+    "id": "hot_007",
+    "latitude": 38.30471,
+    "longitude": -120.66881,
+    "brightness": 316.8,
+    "acq_date": "2025-08-27",
+    "satellite": "T"
+  },
+  {
+    "id": "hot_008",
+    "latitude": 38.50966,
+    "longitude": -121.94963,
+    "brightness": 382.0,
+    "acq_date": "2025-08-27",
+    "satellite": "A"
+  },
+  {
+    "id": "hot_009",
+    "latitude": 33.19626,
+    "longitude": -114.0859,
+    "brightness": 374.3,
+    "acq_date": "2025-08-27",
+    "satellite": "T"
+  },
+  {
+    "id": "hot_010",
+    "latitude": 33.7825,
+    "longitude": -117.46932,
+    "brightness": 316.1,
+    "acq_date": "2025-08-27",
+    "satellite": "T"
+  },
+  {
+    "id": "hot_011",
+    "latitude": 41.73527,
+    "longitude": -118.04889,
+    "brightness": 342.1,
+    "acq_date": "2025-08-27",
+    "satellite": "T"
+  },
+  {
+    "id": "hot_012",
+    "latitude": 38.30911,
+    "longitude": -119.00592,
+    "brightness": 360.2,
+    "acq_date": "2025-08-27",
+    "satellite": "A"
+  },
+  {
+    "id": "hot_013",
+    "latitude": 33.83093,
+    "longitude": -123.31785,
+    "brightness": 359.7,
+    "acq_date": "2025-08-27",
+    "satellite": "A"
+  },
+  {
+    "id": "hot_014",
+    "latitude": 34.77983,
+    "longitude": -114.46039,
+    "brightness": 320.0,
+    "acq_date": "2025-08-27",
+    "satellite": "A"
+  }
+]
